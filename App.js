@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import SearchCity from './src/components/searchCity.js';
+import SearchCity from './src/containers/searchCity.js';
 
 const App = () => {
   return (
